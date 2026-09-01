@@ -10,6 +10,10 @@ Live Dashboard
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/OnlineRetailSalesAnalysisDashboard_17882911945980/OnlineRetailSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Dashboard
+
+![Online Retail Sales Dashboard](images/online_retail_dashboard%202.png)
+
 Tools Used
 
 - Microsoft Excel
