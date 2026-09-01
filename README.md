@@ -1,12 +1,12 @@
-Online Retail Sales Analysis
+## Online Retail Sales Analysis
 
-Project Overview
+## Project Overview
 
 This project analyzes online retail transaction data to identify sales trends, top-performing markets, products, and customers.
 
 The analysis was completed using Excel, SQLite, SQL, and Tableau.
 
-Live Dashboard
+## Live Dashboard
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/OnlineRetailSalesAnalysisDashboard_17882911945980/OnlineRetailSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -14,7 +14,7 @@ Live Dashboard
 
 ![Online Retail Sales Dashboard](images/online_retail_dashboard%202.png)
 
-Tools Used
+## Tools Used
 
 - Microsoft Excel
 - SQLite
@@ -22,7 +22,7 @@ Tools Used
 - SQL
 - Tableau Public
 
-Key Findings
+## Key Findings
 
 - Completed sales totalled **£19,509,263.82** across **39,689 orders**.
 - Average order value was **£491.55**.
@@ -31,7 +31,7 @@ Key Findings
 - REGENCY CAKESTAND 3 TIER was the highest-revenue physical product, generating **£330.7K** in sales.
 - Customer 18102 was the highest-value identified customer, generating **£597.1K** in sales.
 
-SQL Analysis
+## SQL Analysis
 
 The SQL analysis answered questions about:
 
@@ -43,7 +43,7 @@ The SQL analysis answered questions about:
 - Seasonal performance
 - Month-over-month sales changes
 
-SQL Skills Demonstrated
+## SQL Skills Demonstrated
 
 - `SELECT`
 - `WHERE`
@@ -54,7 +54,7 @@ SQL Skills Demonstrated
 - Common Table Expressions (CTEs)
 - Window functions with `LAG`
 
-Project Files
+## Project Files
 
 ```text
 Online Retail Data Analyst Project/
