@@ -57,9 +57,7 @@ The SQL analysis answered questions about:
 ## Project Files
 
 ```text
-Online Retail Data Analyst Project/
 ├── Online_Retail_Analysis.xlsx
-├── online_retail.db
 ├── Online_Retail_Sales_Dashboard.twb
 ├── README.md
 ├── images/
